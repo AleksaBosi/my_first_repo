@@ -29,3 +29,9 @@ git commit -m
 ```sh
 git log
 ```
+
+### Переход от одного коммита к другому
+
+```sh
+git checkout
+```
