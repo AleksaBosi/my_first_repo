@@ -41,3 +41,9 @@ git checkout
 ```sh
 git checkout master
 ```
+
+### Увидеть разницу между текущем файлом и закоммиченным файлом
+
+```sh
+git deff
+```
