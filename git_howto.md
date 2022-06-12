@@ -35,3 +35,9 @@ git log
 ```sh
 git checkout
 ```
+
+### Вернутся к актуальному состоянию и продолжить работу
+
+```sh
+git checkout master
+```
